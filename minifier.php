@@ -16,7 +16,7 @@
 	 */
 	
 	function minifyJS($arr){
-		minify($arr, 'https://javascript-minifier.com/raw');
+		minify($arr, 'https://www.toptal.com/developers/javascript-minifier/raw');
 	}
 	
 	function minifyCSS($arr){
